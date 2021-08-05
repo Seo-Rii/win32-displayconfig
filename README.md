@@ -2,6 +2,8 @@
 
 Simplified Node bindings to the Win32 [Display Device Reference API](https://docs.microsoft.com/en-us/windows/win32/api/_display/).
 
+Forked from [@djsweet](https://github.com/djsweet/win32-displayconfig).
+
 ## Supported Windows Versions
 
 This module has currently only received testing on Windows 10 version 2004.
